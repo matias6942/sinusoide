@@ -1,2 +1,3 @@
-# sinusoide
-Sinusoide Project
+# Sinusoide
+
+Welcome to Sinusoide Project!
