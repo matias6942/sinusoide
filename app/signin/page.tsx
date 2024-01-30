@@ -1,9 +1,9 @@
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-    title: 'Contraseña!',
+    title: 'Regístrate!',
 }
 
 export default function Page() {
-    return <h1>Hello! This is the password recovery page.</h1>
+    return <h1>Hello, this is the signin Page!</h1>
 }

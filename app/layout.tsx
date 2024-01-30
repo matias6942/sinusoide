@@ -1,3 +1,12 @@
+import { Metadata } from "next"
+
+export const metadata: Metadata = {
+    title: {
+      template: '%s - Sinusoide',
+      default: 'Sinusoide'
+    }
+}
+
 export default function RootLayout({
     children,
   }: {
