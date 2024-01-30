@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.css'
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
